@@ -1,3 +1,6 @@
+# Credit Card Fraud Detection Using ML Algorithms
+
+
 This project builds a machine learning pipeline to detect fraudulent credit card transactions using two classification algorithms — Decision Tree and Support Vector Machine (SVM). 
 
 The goal is to correctly identify fraudulent transactions while minimizing false negatives, which represent real fraud cases that go undetected.
